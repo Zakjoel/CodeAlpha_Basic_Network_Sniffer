@@ -1,10 +1,10 @@
 # 🌟 CodeAlpha_Basic_Network_Sniffer
-Python script uses Scapy for network packet analysis
+## Python script uses Scapy for network packet analysis
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.kali.org/tools/scapy/images/scapy-logo.svg)
 
 
-It captures and analyzes IP, TCP, UDP, and ICMP packets, providing insights into source/destination IP addresses and ports
+### It captures and analyzes IP, TCP, UDP, and ICMP packets, providing insights into source/destination IP addresses and ports
 
 # 🚀 Key Features
  
@@ -31,12 +31,13 @@ Compliance Audits: Organizations may use sniffers to ensure compliance with regu
 
 
 # 🔧 Requirements
-Python 3.x
-Scapy
-geoip
-user_agents
+## Python 3.x
+## Scapy
+## geoip
+## user_agents
 
 # 📖 Usage
-Run the script (python3 Network_Packet_Sniffer.py).
-Terminate monitoring by pressing Ctrl+C.
+## Run the script (python3 Network_Packet_Sniffer.py).
+
+## Terminate monitoring by pressing Ctrl+C.
 
