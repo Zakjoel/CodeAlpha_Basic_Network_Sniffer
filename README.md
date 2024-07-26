@@ -4,7 +4,7 @@
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.kali.org/tools/scapy/images/scapy-logo.svg)
 
 
-### It captures and analyzes IP, TCP, UDP, and ICMP packets, providing insights into source/destination IP addresses and ports
+### It captures and analyzes IP, TCP, UDP, and ICMP packets, reading Data and show lenth, providing insights into source/destination IP addresses and ports
 
 # 🚀 Key Features
  
