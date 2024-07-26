@@ -34,6 +34,7 @@ Compliance Audits: Organizations may use sniffers to ensure compliance with regu
 ## Python 3.x
 ## Scapy
 ## geoip
+## Socket
 ## user_agents
 
 # 📖 Usage
